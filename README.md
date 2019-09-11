@@ -16,5 +16,5 @@ hopefully this will help us understand github
 
 Log:
 - problems merging same files with different names. Don't do that! lol
-- decided to use <div>'s to separate the workspace and minimize merge issues.
+- decided to use div's to separate the workspace and minimize merge issues.
 - 
